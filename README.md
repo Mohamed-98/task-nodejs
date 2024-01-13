@@ -17,7 +17,7 @@ This is a simple Task Management API built with Node.js and Express.
 
     ```bash
     git clone https://github.com/Mohamed-98/task-nodejs.git
-    cd task-nodejs.git
+    cd task-nodejs
     ```
 
 2. Install dependencies:
